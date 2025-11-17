@@ -9,6 +9,6 @@ Multi-scenario adaptability : It can be used for multiple scenarios such as simu
 Chinese ( zh ), English (en), Japanese ( ja ), Korean ( ko ), Cantonese ( yue ), German (de), French ( fr ), Russian ( ru ), Italian (it), Spanish ( es )
 
 3. System Requirements
-Support System	Windows 10/11 (64-bit), macOS 12+, Ubuntu 20.04+
-Hardware Requirements	Minimum requirements: 4-core CPU/8GB RAM
-Response time	On average, it takes 1.5-3 seconds (depending on the network environment and the complexity of the content ).
+Support System:	Windows 10/11 (64-bit)
+Recommended hardware: 4-core CPU / 8GB RAM
+Delay time: 0.5 - 2 seconds (depending on the network environment and the complexity of the content ).
