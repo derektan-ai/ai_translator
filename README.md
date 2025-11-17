@@ -1,14 +1,14 @@
 AI Real-Time Voice Translation Assistant
 
-1. Basic Functions
-Core capabilities : Real-time translation based on voice input. Four-language user interface, Supports mutual translation between 10 source languages, including English, Russian, and French, and 4 target languages, with automatic transcription (saved as TXT file).
-Based on cloud services : When connected to the internet, the domestic real-time speech recognition and translation model (gummy-realtime-v1) under Alibaba Cloud services can be used to a certain extent in scenarios with complex accents or background noise.
-Multi-scenario adaptability : It can be used for multiple scenarios such as simultaneous text interpretation in public meetings, live streaming, local video playback and transcription, and foreign language learning .
+1. Basic Functions:
+   [Core capabilities] Real-time translation based on voice input. Four-language user interface, Supports mutual translation between 10 source languages, including English, Russian, and French, and 4 target languages, with automatic transcription (saved as TXT file).
+   [Based on cloud services] When connected to the internet, the domestic real-time speech recognition and translation model (gummy-realtime-v1) under Alibaba Cloud services can be used to a certain extent in scenarios with complex accents or background noise.
+   [Multi-scenario adaptability] It can be used for multiple scenarios such as simultaneous text interpretation in public meetings, live streaming, local video playback and transcription, and foreign language learning .
 
-2. Supported languages
-Chinese ( zh ), English (en), Japanese ( ja ), Korean ( ko ), Cantonese ( yue ), German (de), French ( fr ), Russian ( ru ), Italian (it), Spanish ( es )
+2. Supported languages:
+   Chinese ( zh ), English (en), Japanese ( ja ), Korean ( ko ), Cantonese ( yue ), German (de), French ( fr ), Russian ( ru ), Italian (it), Spanish ( es )
 
-3. System Requirements
-Support System:	Windows 10/11 (64-bit)
-Recommended hardware: 4-core CPU / 8GB RAM
-Delay time: 0.5 - 2 seconds (depending on the network environment and the complexity of the content ).
+3. System Requirements:
+   [Support System]	Windows 10/11 (64-bit)
+   [Recommended hardware] 4-core CPU / 8GB RAM
+   [Delay time] 0.5 - 2 seconds (depending on the network environment and the complexity of the content ).
