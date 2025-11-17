@@ -1,4 +1,4 @@
-AI Real-Time Voice Translation Assistant User Manual
+AI Real-Time Voice Translation Assistant
 
 1. Basic Functions
 Core capabilities : Real-time translation and bilingual display based on voice input. Supports mutual translation between 10 source languages, including English, Russian, and French, and 4 target languages, with automatic text recording.
